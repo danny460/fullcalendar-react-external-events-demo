@@ -1,0 +1,16 @@
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/daygrid/main.css';
+
+.drag-area {
+    background-color: lightseagreen;
+    padding: 1rem;
+}
+
+.drag-area-item {
+    list-style: none;
+    cursor: pointer;
+    margin: 1rem 0;
+    padding: .5rem;
+    background-color: lightgreen;
+    border-radius: 5px;
+}

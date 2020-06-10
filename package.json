@@ -1,9 +1,13 @@
 {
-  "name": "react-calendar-drag-demo",
+  "name": "fullcalendar-react-external-events-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@babel/core": "7.9.0",
+    "@fullcalendar/core": "^4.4.2",
+    "@fullcalendar/daygrid": "^4.4.2",
+    "@fullcalendar/interaction": "^4.4.2",
+    "@fullcalendar/react": "^4.4.2",
     "@svgr/webpack": "4.3.3",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
